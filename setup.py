@@ -13,7 +13,7 @@ setup(
 	name='open-trailcam-pipes',
 	python_requires='>=3.9.6',
 	description='Open Trailcam Pipes',
-	version = '0.0',
+	version = '0.1',
 	author='Jérémy LAVARENNE (@codename5281)',
 	packages=find_packages(where='src'),
 	install_requires=parse_requirements('requirements.txt'),

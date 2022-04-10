@@ -2,3 +2,6 @@ imap_tools
 pandas
 Pillow
 plotly-express
+
+# requirements for yolo via pytorch hub
+# https://raw.githubusercontent.com/ultralytics/yolov5/master/requirements.txt
